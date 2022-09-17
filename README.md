@@ -346,11 +346,3 @@ This will create a docker container and run it in three different configurations
 ```bash
 docker-compose up
 ```
-## Commercial collaboration
-Feel free to send your inquiries about commercial collaboration (such as payment systems integration, POS Android/iOS applications development and other payment solutions) to juks@juks.ru.
-
-## Reporting Bugs
-Please report bugs in the Github issue tracker: https://github.com/juks/SocketQueue/issues
-
-## Copyright
-Copyright (c) 2015–2020 Igor Askarov (juks@juks.ru). See License file for details.
